@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "404846467635",
+    "firebase_url": "https://athlosight3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "athlosight3",
+    "storage_bucket": "athlosight3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404846467635:android:4a04e79fabed1b4c83a146",
+        "android_client_info": {
+          "package_name": "com.athlosight.pba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404846467635-g63v1t8jiqsmcre4hkd02n16rk99o16t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhQbzavOoog6SKEROQdRgMLUTSXFZfJNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404846467635-g63v1t8jiqsmcre4hkd02n16rk99o16t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404846467635:android:cfa730a76f948f3c83a146",
+        "android_client_info": {
+          "package_name": "com.athlosight.pbl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404846467635-g63v1t8jiqsmcre4hkd02n16rk99o16t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhQbzavOoog6SKEROQdRgMLUTSXFZfJNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404846467635-g63v1t8jiqsmcre4hkd02n16rk99o16t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
